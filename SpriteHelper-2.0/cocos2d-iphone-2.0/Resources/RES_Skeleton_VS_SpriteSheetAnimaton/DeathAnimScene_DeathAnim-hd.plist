@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Death_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1201, 355}, {110, 327}}</string>
+			<key>offset</key>
+			<string>{-106.5, 19.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{43, 25}, {327, 110}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1142, 553}, {112, 327}}</string>
+			<key>offset</key>
+			<string>{-106.5, 19.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{43, 24}, {327, 112}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{383, 1034}, {129, 326}}</string>
+			<key>offset</key>
+			<string>{-105, 17}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{41, 17}, {326, 129}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{554, 425}, {135, 317}}</string>
+			<key>offset</key>
+			<string>{-104, 13.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 15}, {317, 135}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1105, 1}, {136, 301}}</string>
+			<key>offset</key>
+			<string>{-99.5, 9.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{46, 19}, {301, 136}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 426}, {153, 283}}</string>
+			<key>offset</key>
+			<string>{-101, 3.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{49, 9}, {283, 153}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1075, 185}, {168, 270}}</string>
+			<key>offset</key>
+			<string>{-96.5, -7}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{45, 6}, {270, 168}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{868, 563}, {173, 271}}</string>
+			<key>offset</key>
+			<string>{-95, -12.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {271, 173}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{804, 249}, {174, 270}}</string>
+			<key>offset</key>
+			<string>{-94.5, -12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{40, 5}, {270, 174}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{531, 249}, {175, 270}}</string>
+			<key>offset</key>
+			<string>{-94, -13}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {270, 175}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{836, 744}, {176, 269}}</string>
+			<key>offset</key>
+			<string>{-93.5, -12.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{40, 5}, {269, 176}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{712, 947}, {176, 269}}</string>
+			<key>offset</key>
+			<string>{-93.5, -12.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{40, 5}, {269, 176}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1107, 737}, {115, 327}}</string>
+			<key>offset</key>
+			<string>{-106, 19.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{43, 23}, {327, 115}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{458, 1165}, {177, 269}}</string>
+			<key>offset</key>
+			<string>{-93, -13.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {269, 177}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{457, 1364}, {178, 268}}</string>
+			<key>offset</key>
+			<string>{-92.5, -13}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{40, 5}, {268, 178}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 1631}, {178, 268}}</string>
+			<key>offset</key>
+			<string>{-92.5, -14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 67}, {178, 268}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{599, 563}, {179, 268}}</string>
+			<key>offset</key>
+			<string>{-92, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {268, 179}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{566, 765}, {180, 268}}</string>
+			<key>offset</key>
+			<string>{-91.5, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {268, 180}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{384, 765}, {181, 267}}</string>
+			<key>offset</key>
+			<string>{-91, -14.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 68}, {181, 267}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{836, 1}, {181, 267}}</string>
+			<key>offset</key>
+			<string>{-91, -14.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {267, 181}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{330, 581}, {182, 267}}</string>
+			<key>offset</key>
+			<string>{-90.5, -14.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {267, 182}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 849}, {183, 267}}</string>
+			<key>offset</key>
+			<string>{-90, -15.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 69}, {183, 267}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{191, 1179}, {183, 266}}</string>
+			<key>offset</key>
+			<string>{-90, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{39, 5}, {266, 183}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{982, 921}, {116, 328}}</string>
+			<key>offset</key>
+			<string>{-105.5, 19}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 23}, {328, 116}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 1445}, {184, 266}}</string>
+			<key>offset</key>
+			<string>{-89.5, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{38, 5}, {266, 184}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 1712}, {185, 266}}</string>
+			<key>offset</key>
+			<string>{-89, -16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 70}, {185, 266}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1711}, {186, 265}}</string>
+			<key>offset</key>
+			<string>{-88.5, -15.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 70}, {186, 265}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1445}, {186, 265}}</string>
+			<key>offset</key>
+			<string>{-88.5, -16.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 71}, {186, 265}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_34.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1179}, {187, 264}}</string>
+			<key>offset</key>
+			<string>{-88, -16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 71}, {187, 264}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{141, 582}, {188, 264}}</string>
+			<key>offset</key>
+			<string>{-87.5, -16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 71}, {188, 264}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 918}, {196, 260}}</string>
+			<key>offset</key>
+			<string>{-83.5, -20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 77}, {196, 260}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{277, 202}, {222, 253}}</string>
+			<key>offset</key>
+			<string>{-70.5, -25.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{35, 5}, {253, 222}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{586, 1}, {246, 248}}</string>
+			<key>offset</key>
+			<string>{-58.5, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{34, 5}, {248, 246}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {274, 229}}</string>
+			<key>offset</key>
+			<string>{-44.5, -37.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 110}, {274, 229}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{729, 1124}, {119, 327}}</string>
+			<key>offset</key>
+			<string>{-106, 18.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 21}, {327, 119}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{277, 1}, {307, 199}}</string>
+			<key>offset</key>
+			<string>{-29, -51.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 139}, {307, 199}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 233}, {337, 165}}</string>
+			<key>offset</key>
+			<string>{-14, -66.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{38, 4}, {165, 337}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 571}, {345, 138}}</string>
+			<key>offset</key>
+			<string>{-5, -80}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{38, 9}, {138, 345}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{727, 1343}, {347, 113}}</string>
+			<key>offset</key>
+			<string>{4, -92.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 223}, {347, 113}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168, 233}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1348, 138}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1348, 240}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1408, 1}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1058, 1039}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1312, 854}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{703, 1873}, {121, 327}}</string>
+			<key>offset</key>
+			<string>{-105, 18.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 21}, {327, 121}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1436, 667}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1471, 466}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1531, 342}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_53.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1698, 102}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_54.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1698, 204}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_55.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1058, 1140}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_56.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1880, 306}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_57.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1786, 656}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_58.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1662, 769}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_59.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1887, 656}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{682, 1543}, {123, 327}}</string>
+			<key>offset</key>
+			<string>{-105, 18.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 5}, {123, 327}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_60.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1408, 956}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_61.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1509, 956}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_62.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1075, 1242}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_63.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{806, 1458}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_64.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{908, 1458}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_65.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1177, 1242}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_66.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1278, 1242}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{33, 23}, {100, 348}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_67.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1010, 1592}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_68.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1010, 1693}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_69.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1033, 1795}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{556, 1543}, {125, 327}}</string>
+			<key>offset</key>
+			<string>{-105, 18.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 5}, {125, 327}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_70.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1360, 1592}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_71.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1360, 1693}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_72.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1033, 1896}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_73.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1383, 1795}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_74.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1383, 1896}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_75.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1380, 1305}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_76.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1611, 1118}, {348, 100}}</string>
+			<key>offset</key>
+			<string>{10.5, -104}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 241}, {348, 100}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{872, 425}, {126, 327}}</string>
+			<key>offset</key>
+			<string>{-105.5, 17.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{41, 18}, {327, 126}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>Death_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 1901}, {128, 326}}</string>
+			<key>offset</key>
+			<string>{-104.5, 18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 18}, {326, 128}}</string>
+			<key>sourceSize</key>
+			<string>{373, 374}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2031}</string>
+		<key>textureFileName</key>
+		<string>DeathAnimScene_DeathAnim.png</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+</dict>
+</plist>

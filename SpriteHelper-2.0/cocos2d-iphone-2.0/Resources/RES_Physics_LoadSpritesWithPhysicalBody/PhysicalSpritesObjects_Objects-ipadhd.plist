@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>backpack</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{-51, -14}</string>
+								<string>{-44, -50}</string>
+								<string>{-36.008948184632324, -58.95406092806595}</string>
+								<string>{23, -73}</string>
+								<string>{43, -67}</string>
+								<string>{61, -53}</string>
+								<string>{63, -27}</string>
+								<string>{-53, 39}</string>
+							</array>
+							<array>
+								<string>{23, -73}</string>
+								<string>{-36.008948184632324, -58.95406092806595}</string>
+								<string>{-37.680147057940758, -70.303345208554177}</string>
+								<string>{-13, -76}</string>
+							</array>
+							<array>
+								<string>{-13, -84}</string>
+								<string>{-10, -90}</string>
+								<string>{8, -95}</string>
+								<string>{20, -95}</string>
+								<string>{22, -88}</string>
+								<string>{23, -73}</string>
+								<string>{-13, -76}</string>
+							</array>
+							<array>
+								<string>{-40, -85}</string>
+								<string>{-24, -86}</string>
+								<string>{-13, -76}</string>
+								<string>{-37.680147057940758, -70.303345208554177}</string>
+								<string>{-51, -81}</string>
+							</array>
+							<array>
+								<string>{-65, -64}</string>
+								<string>{-51, -81}</string>
+								<string>{-37.680147057940758, -70.303345208554177}</string>
+								<string>{-50, -58}</string>
+								<string>{-77, -32}</string>
+							</array>
+							<array>
+								<string>{-77, -32}</string>
+								<string>{-50, -58}</string>
+								<string>{-59.765772639217076, -23.974767981896303}</string>
+								<string>{-79, 7}</string>
+							</array>
+							<array>
+								<string>{-79, 7}</string>
+								<string>{-59.765772639217076, -23.974767981896303}</string>
+								<string>{-62, 5}</string>
+								<string>{-70, 53}</string>
+							</array>
+							<array>
+								<string>{-70, 53}</string>
+								<string>{-62, 5}</string>
+								<string>{-53, 39}</string>
+								<string>{-54, 73}</string>
+							</array>
+							<array>
+								<string>{-53, 39}</string>
+								<string>{63, -27}</string>
+								<string>{72, -22}</string>
+							</array>
+							<array>
+								<string>{-53, 39}</string>
+								<string>{72, -22}</string>
+								<string>{77, 6}</string>
+							</array>
+							<array>
+								<string>{-53, 39}</string>
+								<string>{77, 6}</string>
+								<string>{78, 62}</string>
+							</array>
+							<array>
+								<string>{-53, 39}</string>
+								<string>{78, 62}</string>
+								<string>{72, 79}</string>
+							</array>
+							<array>
+								<string>{-53, 39}</string>
+								<string>{72, 79}</string>
+								<string>{18, 94}</string>
+							</array>
+							<array>
+								<string>{-53, 39}</string>
+								<string>{18, 94}</string>
+								<string>{-23, 94}</string>
+							</array>
+							<array>
+								<string>{-54, 73}</string>
+								<string>{-53, 39}</string>
+								<string>{-23, 94}</string>
+							</array>
+							<array>
+								<string>{-54, 73}</string>
+								<string>{-23, 94}</string>
+								<string>{-44, 90}</string>
+							</array>
+							<array>
+								<string>{-53, 84}</string>
+								<string>{-54, 73}</string>
+								<string>{-44, 90}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>backpackShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>4</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{2, 282}, {159, 190}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 11}, {159, 190}}</string>
+			<key>sourceSize</key>
+			<string>{179, 212}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>ball</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>circleOffset</key>
+						<string>{0, 0}</string>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array/>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>circleShape</string>
+						<key>radius</key>
+						<real>54.6427001953125</real>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>2</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{407, 250}, {52, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 52}}</string>
+			<key>sourceSize</key>
+			<string>{52, 52}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>banana</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{55.5, -31.5}</string>
+								<string>{52.5, -39.5}</string>
+								<string>{65.5, -54.5}</string>
+								<string>{70.5, -56.5}</string>
+								<string>{77.5, -53.5}</string>
+								<string>{80.5, -45.5}</string>
+								<string>{80.5, -35.5}</string>
+								<string>{74.5, -28.5}</string>
+							</array>
+							<array>
+								<string>{54.5, -24.5}</string>
+								<string>{55.5, -31.5}</string>
+								<string>{74.5, -28.5}</string>
+								<string>{74.5, -18.5}</string>
+							</array>
+							<array>
+								<string>{34.5, -3.5}</string>
+								<string>{54.5, -24.5}</string>
+								<string>{74.5, -18.5}</string>
+								<string>{78.5, -8.5}</string>
+								<string>{78.666206677896838, 6.9099213970561246}</string>
+								<string>{68.5, 24.5}</string>
+								<string>{55.5, 37.5}</string>
+							</array>
+							<array>
+								<string>{14.5, 6.5}</string>
+								<string>{34.5, -3.5}</string>
+								<string>{55.5, 37.5}</string>
+								<string>{44.5, 44.5}</string>
+								<string>{32.5, 49.5}</string>
+								<string>{12.5, 53.5}</string>
+							</array>
+							<array>
+								<string>{3.5, 8.5}</string>
+								<string>{14.5, 6.5}</string>
+								<string>{12.5, 53.5}</string>
+								<string>{-8.5, 53.5}</string>
+							</array>
+							<array>
+								<string>{-13.5, 7.5}</string>
+								<string>{3.5, 8.5}</string>
+								<string>{-8.5, 53.5}</string>
+								<string>{-30.5, 49.5}</string>
+							</array>
+							<array>
+								<string>{-23.5, 4.5}</string>
+								<string>{-13.5, 7.5}</string>
+								<string>{-30.5, 49.5}</string>
+								<string>{-47.5, 42.5}</string>
+							</array>
+							<array>
+								<string>{-41.5, -5.5}</string>
+								<string>{-23.5, 4.5}</string>
+								<string>{-47.5, 42.5}</string>
+							</array>
+							<array>
+								<string>{-41.5, -5.5}</string>
+								<string>{-47.5, 42.5}</string>
+								<string>{-59.5, 34.5}</string>
+							</array>
+							<array>
+								<string>{-41.5, -5.5}</string>
+								<string>{-59.5, 34.5}</string>
+								<string>{-74.5, 17.5}</string>
+							</array>
+							<array>
+								<string>{-67.5, -15.5}</string>
+								<string>{-41.5, -5.5}</string>
+								<string>{-74.5, 17.5}</string>
+							</array>
+							<array>
+								<string>{-67.5, -15.5}</string>
+								<string>{-74.5, 17.5}</string>
+								<string>{-81.5, 0.5}</string>
+							</array>
+							<array>
+								<string>{-67.5, -15.5}</string>
+								<string>{-81.5, 0.5}</string>
+								<string>{-81.5, -7.5}</string>
+							</array>
+							<array>
+								<string>{-73.5, -15.5}</string>
+								<string>{-67.5, -15.5}</string>
+								<string>{-81.5, -7.5}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>bananaShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{294, 2}, {163, 111}}</string>
+			<key>offset</key>
+			<string>{0, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 7}, {163, 111}}</string>
+			<key>sourceSize</key>
+			<string>{183, 127}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bananabunch</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{33.5, -42}</string>
+								<string>{51.5, -53}</string>
+								<string>{61.5, -51}</string>
+								<string>{62.5, -33}</string>
+								<string>{18.5, -28}</string>
+							</array>
+							<array>
+								<string>{38.5, 48}</string>
+								<string>{12.5, 54}</string>
+								<string>{5.5, -20}</string>
+							</array>
+							<array>
+								<string>{60.5, 35}</string>
+								<string>{38.5, 48}</string>
+								<string>{5.5, -20}</string>
+							</array>
+							<array>
+								<string>{75.5, -9}</string>
+								<string>{60.5, 35}</string>
+								<string>{5.5, -20}</string>
+							</array>
+							<array>
+								<string>{75.5, -9}</string>
+								<string>{5.5, -20}</string>
+								<string>{18.5, -28}</string>
+							</array>
+							<array>
+								<string>{75.5, -9}</string>
+								<string>{18.5, -28}</string>
+								<string>{62.5, -33}</string>
+							</array>
+							<array>
+								<string>{76.5, -23}</string>
+								<string>{75.5, -9}</string>
+								<string>{62.5, -33}</string>
+							</array>
+							<array>
+								<string>{76.5, -23}</string>
+								<string>{62.5, -33}</string>
+								<string>{73.5, -30}</string>
+							</array>
+							<array>
+								<string>{-49.5, -30}</string>
+								<string>{-67.5, -22}</string>
+								<string>{-73.5, -30}</string>
+							</array>
+							<array>
+								<string>{-49.5, -30}</string>
+								<string>{-73.5, -30}</string>
+								<string>{-73.5, -42}</string>
+							</array>
+							<array>
+								<string>{-49.5, -30}</string>
+								<string>{-73.5, -42}</string>
+								<string>{-71.5, -48}</string>
+							</array>
+							<array>
+								<string>{-46.5, -34}</string>
+								<string>{-49.5, -30}</string>
+								<string>{-71.5, -48}</string>
+							</array>
+							<array>
+								<string>{-46.5, -43}</string>
+								<string>{-46.5, -34}</string>
+								<string>{-71.5, -48}</string>
+							</array>
+							<array>
+								<string>{-48.5, -46}</string>
+								<string>{-46.5, -43}</string>
+								<string>{-71.5, -48}</string>
+							</array>
+							<array>
+								<string>{-59.5, -54}</string>
+								<string>{-48.5, -46}</string>
+								<string>{-71.5, -48}</string>
+							</array>
+							<array>
+								<string>{-59.5, -54}</string>
+								<string>{-71.5, -48}</string>
+								<string>{-66.5, -54}</string>
+							</array>
+							<array>
+								<string>{-67.5, -17}</string>
+								<string>{-67.5, -22}</string>
+								<string>{-49.5, -30}</string>
+								<string>{-32.5, -19}</string>
+							</array>
+							<array>
+								<string>{-21.5, -16}</string>
+								<string>{-22.5, 52}</string>
+								<string>{-34.5, 48}</string>
+							</array>
+							<array>
+								<string>{-21.5, -16}</string>
+								<string>{-34.5, 48}</string>
+								<string>{-51.5, 38}</string>
+							</array>
+							<array>
+								<string>{-21.5, -16}</string>
+								<string>{-51.5, 38}</string>
+								<string>{-66.5, 21}</string>
+							</array>
+							<array>
+								<string>{-32.5, -19}</string>
+								<string>{-21.5, -16}</string>
+								<string>{-66.5, 21}</string>
+							</array>
+							<array>
+								<string>{-67.5, -17}</string>
+								<string>{-32.5, -19}</string>
+								<string>{-66.5, 21}</string>
+							</array>
+							<array>
+								<string>{-67.5, -17}</string>
+								<string>{-66.5, 21}</string>
+								<string>{-72.5, 5}</string>
+							</array>
+							<array>
+								<string>{-67.5, -17}</string>
+								<string>{-72.5, 5}</string>
+								<string>{-72.5, -2}</string>
+							</array>
+							<array>
+								<string>{-10.5, 54}</string>
+								<string>{-22.5, 52}</string>
+								<string>{-21.5, -16}</string>
+								<string>{-9.5, -16}</string>
+								<string>{12.5, 54}</string>
+							</array>
+							<array>
+								<string>{12.5, 54}</string>
+								<string>{-9.5, -16}</string>
+								<string>{5.5, -20}</string>
+							</array>
+							<array>
+								<string>{79.5, 6}</string>
+								<string>{74.5, 18}</string>
+								<string>{60.5, 35}</string>
+								<string>{75.5, -9}</string>
+								<string>{79.5, -5}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>bananaShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{294, 117}, {154, 109}}</string>
+			<key>offset</key>
+			<string>{3.5, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 14}, {109, 154}}</string>
+			<key>sourceSize</key>
+			<string>{175, 130}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>canteen</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{-29.5, -38}</string>
+								<string>{-19.5, -39}</string>
+								<string>{22.873780549178736, -37.80726534135659}</string>
+								<string>{28.551181115903944, -37.459794344148008}</string>
+								<string>{30.5, -23}</string>
+								<string>{-39.5, -25}</string>
+							</array>
+							<array>
+								<string>{-15.5, -58}</string>
+								<string>{-9.5, -63}</string>
+								<string>{10.5, -63}</string>
+								<string>{16.254228445969449, -59.165251350393234}</string>
+								<string>{15.5, -43}</string>
+								<string>{-15.5, -42}</string>
+							</array>
+							<array>
+								<string>{-44.718512663323054, 27.048119752163039}</string>
+								<string>{-39.5, -25}</string>
+								<string>{30.5, -23}</string>
+							</array>
+							<array>
+								<string>{-44.718512663323054, 27.048119752163039}</string>
+								<string>{30.5, -23}</string>
+								<string>{34.5, -17}</string>
+							</array>
+							<array>
+								<string>{-44.718512663323054, 27.048119752163039}</string>
+								<string>{34.5, -17}</string>
+								<string>{38.350781662729204, -4.7783867410563268}</string>
+							</array>
+							<array>
+								<string>{-44.718512663323054, 27.048119752163039}</string>
+								<string>{38.350781662729204, -4.7783867410563268}</string>
+								<string>{38.5, 21}</string>
+							</array>
+							<array>
+								<string>{-44.718512663323054, 27.048119752163039}</string>
+								<string>{38.5, 21}</string>
+								<string>{35.5, 45}</string>
+							</array>
+							<array>
+								<string>{-42.866354484369836, 54.828961727222669}</string>
+								<string>{-44.718512663323054, 27.048119752163039}</string>
+								<string>{35.5, 45}</string>
+							</array>
+							<array>
+								<string>{-35.544972195168768, 65.874559594434658}</string>
+								<string>{-42.866354484369836, 54.828961727222669}</string>
+								<string>{35.5, 45}</string>
+							</array>
+							<array>
+								<string>{15.559286451552282, 64.679075678928442}</string>
+								<string>{-35.544972195168768, 65.874559594434658}</string>
+								<string>{35.5, 45}</string>
+							</array>
+							<array>
+								<string>{15.559286451552282, 64.679075678928442}</string>
+								<string>{35.5, 45}</string>
+								<string>{30.829641817864189, 59.880302215276892}</string>
+							</array>
+							<array>
+								<string>{15.5, -43}</string>
+								<string>{22.873780549178736, -37.80726534135659}</string>
+								<string>{-19.5, -39}</string>
+								<string>{-15.5, -42}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>canteenShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{407, 117}, {84, 129}}</string>
+			<key>offset</key>
+			<string>{-2.5, -1.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {84, 129}}</string>
+			<key>sourceSize</key>
+			<string>{119, 156}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>hat</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{-55, 57}</string>
+								<string>{-79, 52}</string>
+								<string>{-101, 42}</string>
+								<string>{-108, 33}</string>
+								<string>{-106, 18}</string>
+								<string>{-92, 4}</string>
+								<string>{-70, -7}</string>
+								<string>{-10, 61}</string>
+							</array>
+							<array>
+								<string>{69, -11}</string>
+								<string>{70, 54}</string>
+								<string>{47, 59}</string>
+							</array>
+							<array>
+								<string>{69, -11}</string>
+								<string>{47, 59}</string>
+								<string>{27, 61}</string>
+							</array>
+							<array>
+								<string>{69, -11}</string>
+								<string>{27, 61}</string>
+								<string>{-10, 61}</string>
+							</array>
+							<array>
+								<string>{69, -11}</string>
+								<string>{-10, 61}</string>
+								<string>{-70, -7}</string>
+							</array>
+							<array>
+								<string>{69, -11}</string>
+								<string>{-70, -7}</string>
+								<string>{-63, -29}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{69, -11}</string>
+								<string>{-63, -29}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{-63, -29}</string>
+								<string>{-54, -45}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{-54, -45}</string>
+								<string>{-45, -54}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{-45, -54}</string>
+								<string>{-38, -58}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{-38, -58}</string>
+								<string>{-25, -62}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{-25, -62}</string>
+								<string>{15, -64}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{15, -64}</string>
+								<string>{29, -62}</string>
+							</array>
+							<array>
+								<string>{62, -35}</string>
+								<string>{29, -62}</string>
+								<string>{39, -59}</string>
+							</array>
+							<array>
+								<string>{58, -43}</string>
+								<string>{62, -35}</string>
+								<string>{39, -59}</string>
+							</array>
+							<array>
+								<string>{58, -43}</string>
+								<string>{39, -59}</string>
+								<string>{50, -53}</string>
+							</array>
+							<array>
+								<string>{91, 45}</string>
+								<string>{70, 54}</string>
+								<string>{69, -11}</string>
+								<string>{94, -2}</string>
+								<string>{105, 9}</string>
+								<string>{107, 27}</string>
+								<string>{99, 39}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>hatShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{165, 282}, {217, 126}}</string>
+			<key>offset</key>
+			<string>{0.5, 1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13, 14}, {126, 217}}</string>
+			<key>sourceSize</key>
+			<string>{244, 150}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>pineapple</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{10.272928710269928, -47.224475481801704}</string>
+								<string>{28.584063174041532, -70.048797762314635}</string>
+								<string>{20.807012887753682, -49.210618846262591}</string>
+							</array>
+							<array>
+								<string>{-11.461073267236566, -100.05248172551423}</string>
+								<string>{-4.6976801376500044, -126.81501822547993}</string>
+								<string>{2.9530179260238394, -83.56706589412056}</string>
+								<string>{-7.8522266393169424, -53.67553727458958}</string>
+							</array>
+							<array>
+								<string>{2.9530179260238394, -83.56706589412056}</string>
+								<string>{13.697215911899423, -98.825871384632023}</string>
+								<string>{9.5219138140585109, -72.306101514632573}</string>
+								<string>{-7.8522266393169424, -53.67553727458958}</string>
+							</array>
+							<array>
+								<string>{18.102507448655754, -24.567676372844467}</string>
+								<string>{30.486444952724575, -39.563839602866103}</string>
+								<string>{28.051680213589169, -18.35370245844468}</string>
+								<string>{20.646588155670685, -4.3470616909171351}</string>
+							</array>
+							<array>
+								<string>{5.497098633038771, 1.6042699629928123}</string>
+								<string>{-13.626097306409447, -3.3575392284230445}</string>
+								<string>{-35.267819570770897, -20.045970428735892}</string>
+								<string>{-11.815995240871485, -18.600728152094575}</string>
+								<string>{20.646588155670685, -4.3470616909171351}</string>
+							</array>
+							<array>
+								<string>{-7.8522266393169424, -53.67553727458958}</string>
+								<string>{9.5219138140585109, -72.306101514632573}</string>
+								<string>{10.272928710269928, -47.224475481801704}</string>
+								<string>{-11.815995240871485, -18.600728152094575}</string>
+							</array>
+							<array>
+								<string>{-22.281934399417292, -46.016321083548512}</string>
+								<string>{-35.090358583953453, -65.678998422921779}</string>
+								<string>{-20.751510849103614, -66.313598911780986}</string>
+								<string>{-7.8522266393169424, -53.67553727458958}</string>
+							</array>
+							<array>
+								<string>{10.272928710269928, -47.224475481801704}</string>
+								<string>{20.807012887753682, -49.210618846262591}</string>
+								<string>{18.102507448655754, -24.567676372844467}</string>
+								<string>{-11.815995240871485, -18.600728152094575}</string>
+							</array>
+							<array>
+								<string>{-11.815995240871485, -18.600728152094575}</string>
+								<string>{-22.281934399417292, -46.016321083548512}</string>
+								<string>{-7.8522266393169424, -53.67553727458958}</string>
+							</array>
+							<array>
+								<string>{-11.815995240871485, -18.600728152094575}</string>
+								<string>{18.102507448655754, -24.567676372844467}</string>
+								<string>{20.646588155670685, -4.3470616909171351}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>leafShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>4</integer>
+					</dict>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{23.203446053736485, 124.46689973223759}</string>
+								<string>{-15.853587612942061, 126.72278379666105}</string>
+								<string>{-39.389173528619295, 101.2947539175625}</string>
+							</array>
+							<array>
+								<string>{40.371731762403684, 109.65529592850616}</string>
+								<string>{23.203446053736485, 124.46689973223759}</string>
+								<string>{-39.389173528619295, 101.2947539175625}</string>
+							</array>
+							<array>
+								<string>{49.67068747163799, 86.29717099964634}</string>
+								<string>{40.371731762403684, 109.65529592850616}</string>
+								<string>{-39.389173528619295, 101.2947539175625}</string>
+							</array>
+							<array>
+								<string>{49.67068747163799, 86.29717099964634}</string>
+								<string>{-39.389173528619295, 101.2947539175625}</string>
+								<string>{-47.785207736926409, 65.24036014783519}</string>
+							</array>
+							<array>
+								<string>{51.293390735096715, 51.435315061332226}</string>
+								<string>{49.67068747163799, 86.29717099964634}</string>
+								<string>{-47.785207736926409, 65.24036014783519}</string>
+							</array>
+							<array>
+								<string>{51.293390735096715, 51.435315061332226}</string>
+								<string>{-47.785207736926409, 65.24036014783519}</string>
+								<string>{-43.981863867454862, 32.127559695593874}</string>
+							</array>
+							<array>
+								<string>{45.51952006800424, 23.818126448853665}</string>
+								<string>{51.293390735096715, 51.435315061332226}</string>
+								<string>{-43.981863867454862, 32.127559695593874}</string>
+							</array>
+							<array>
+								<string>{45.51952006800424, 23.818126448853665}</string>
+								<string>{-43.981863867454862, 32.127559695593874}</string>
+								<string>{-25.043227354296803, 3.5861542637700361}</string>
+							</array>
+							<array>
+								<string>{30.185471119082166, 1.0860838814858227}</string>
+								<string>{45.51952006800424, 23.818126448853665}</string>
+								<string>{-25.043227354296803, 3.5861542637700361}</string>
+							</array>
+							<array>
+								<string>{13.133599817767211, -7.4859916257441954}</string>
+								<string>{30.185471119082166, 1.0860838814858227}</string>
+								<string>{-25.043227354296803, 3.5861542637700361}</string>
+							</array>
+							<array>
+								<string>{-8.253998313471655, -7.8764057967425778}</string>
+								<string>{13.133599817767211, -7.4859916257441954}</string>
+								<string>{-25.043227354296803, 3.5861542637700361}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>fruitShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>1</integer>
+						<key>type</key>
+						<integer>4</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{190, 2}, {100, 251}}</string>
+			<key>offset</key>
+			<string>{2.5, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{13, 10}, {100, 251}}</string>
+			<key>sourceSize</key>
+			<string>{121, 267}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>statue</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{-90, -137.5}</string>
+								<string>{94, -137.5}</string>
+								<string>{94, 138.5}</string>
+								<string>{-90, 138.5}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>name</key>
+						<string>statueShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>3</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{2, 2}, {184, 276}}</string>
+			<key>offset</key>
+			<string>{2, -0.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 10}, {184, 276}}</string>
+			<key>sourceSize</key>
+			<string>{210, 295}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{493, 501}</string>
+		<key>textureFileName</key>
+		<string>PhysicalSpritesObjects_Objects.png</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+</dict>
+</plist>

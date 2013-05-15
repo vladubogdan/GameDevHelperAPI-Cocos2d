@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>blueRobot</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<true/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>category</key>
+						<integer>8</integer>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{-26.75, -34}</string>
+								<string>{28, -34}</string>
+								<string>{28, 32.75}</string>
+								<string>{-26.75, 32.75}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>mask</key>
+						<integer>7</integer>
+						<key>name</key>
+						<string>UntitledShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>3</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{57, 1}, {55, 67}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 4}, {55, 67}}</string>
+			<key>sourceSize</key>
+			<string>{65, 75}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>greenRobot</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<true/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>category</key>
+						<integer>2</integer>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{-26.75, -34}</string>
+								<string>{28, -34}</string>
+								<string>{28, 32.75}</string>
+								<string>{-26.75, 32.75}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>mask</key>
+						<integer>13</integer>
+						<key>name</key>
+						<string>UntitledShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>3</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{1, 1}, {55, 67}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 4}, {55, 67}}</string>
+			<key>sourceSize</key>
+			<string>{65, 75}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>pinkRobot</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<true/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>category</key>
+						<integer>4</integer>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{-26.75, -34}</string>
+								<string>{28, -34}</string>
+								<string>{28, 32.75}</string>
+								<string>{-26.75, 32.75}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.20000000298023224</real>
+						<key>mask</key>
+						<integer>15</integer>
+						<key>name</key>
+						<string>UntitledShape</string>
+						<key>restitution</key>
+						<real>0.0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>3</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{0, 69}, {55, 67}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 6}, {67, 55}}</string>
+			<key>sourceSize</key>
+			<string>{65, 75}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{114, 126}</string>
+		<key>textureFileName</key>
+		<string>physicsCollisionTestRobots_robots.png</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+</dict>
+</plist>

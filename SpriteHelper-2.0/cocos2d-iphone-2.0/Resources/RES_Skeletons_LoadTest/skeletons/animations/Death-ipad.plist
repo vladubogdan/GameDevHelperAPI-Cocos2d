@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectionFrames</key>
+	<array>
+		<dict>
+			<key>connections</key>
+			<dict>
+				<key>eyes_OPEN.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>bone</key>
+					<string>head</string>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{29, -31}</string>
+				</dict>
+				<key>foot_LEFT.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>92.448226928710938</real>
+					<key>bone</key>
+					<string>leftFoot</string>
+					<key>connAngle</key>
+					<real>12.602165222167969</real>
+					<key>posOff</key>
+					<string>{9, 0}</string>
+				</dict>
+				<key>foot_RIGHT.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>86.02459716796875</real>
+					<key>bone</key>
+					<string>rightFoot</string>
+					<key>connAngle</key>
+					<real>10.0872802734375</real>
+					<key>posOff</key>
+					<string>{8, -1}</string>
+				</dict>
+				<key>forearm_L_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>91.532829284667969</real>
+					<key>bone</key>
+					<string>leftLowerArm</string>
+					<key>connAngle</key>
+					<real>77.498603820800781</real>
+					<key>posOff</key>
+					<string>{0, 18}</string>
+				</dict>
+				<key>forearm_R_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>186.57774353027344</real>
+					<key>bone</key>
+					<string>rightLowerArm</string>
+					<key>connAngle</key>
+					<real>-8.583984375</real>
+					<key>posOff</key>
+					<string>{2, 20}</string>
+				</dict>
+				<key>gun-belt.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>bone</key>
+					<string>torso</string>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{2, -20}</string>
+				</dict>
+				<key>gun-holster.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>bone</key>
+					<string>torso</string>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{-24, -15}</string>
+				</dict>
+				<key>gun.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>bone</key>
+					<string>torso</string>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{-32, -24}</string>
+				</dict>
+				<key>hair.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>bone</key>
+					<string>head</string>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{10, -39}</string>
+				</dict>
+				<key>hand_L_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>91.382034301757812</real>
+					<key>bone</key>
+					<string>leftHand</string>
+					<key>connAngle</key>
+					<real>28.28668212890625</real>
+					<key>posOff</key>
+					<string>{4, 6}</string>
+				</dict>
+				<key>hand_R_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>178.4052734375</real>
+					<key>bone</key>
+					<string>rightHand</string>
+					<key>connAngle</key>
+					<real>-39.3154296875</real>
+					<key>posOff</key>
+					<string>{9, 9}</string>
+				</dict>
+				<key>hat.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>23.405136108398438</real>
+					<key>bone</key>
+					<string>head</string>
+					<key>connAngle</key>
+					<real>-0.6160125732421875</real>
+					<key>posOff</key>
+					<string>{10, -67}</string>
+				</dict>
+				<key>head.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>bone</key>
+					<string>head</string>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{12, -30}</string>
+				</dict>
+				<key>leg_lower_L_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>181.529052734375</real>
+					<key>bone</key>
+					<string>leftLowerLeg</string>
+					<key>connAngle</key>
+					<real>15.99365234375</real>
+					<key>posOff</key>
+					<string>{-9, 23}</string>
+				</dict>
+				<key>leg_lower_R_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>184.20648193359375</real>
+					<key>bone</key>
+					<string>rightLowerLeg</string>
+					<key>connAngle</key>
+					<real>4.709320068359375</real>
+					<key>posOff</key>
+					<string>{-5, 21}</string>
+				</dict>
+				<key>leg_upper_L_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>177.68547058105469</real>
+					<key>bone</key>
+					<string>leftUpperLeg</string>
+					<key>connAngle</key>
+					<real>-2.9243621826171875</real>
+					<key>posOff</key>
+					<string>{0, 18}</string>
+				</dict>
+				<key>leg_upper_R_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>185.11367797851562</real>
+					<key>bone</key>
+					<string>rightUpperLeg</string>
+					<key>connAngle</key>
+					<real>-5.882843017578125</real>
+					<key>posOff</key>
+					<string>{1, 17}</string>
+				</dict>
+				<key>mouth.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>bone</key>
+					<string>head</string>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{32, -9}</string>
+				</dict>
+				<key>muzzleFlash.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>175.97360229492188</real>
+					<key>bone</key>
+					<string>rightHand</string>
+					<key>connAngle</key>
+					<real>-36.883758544921875</real>
+					<key>posOff</key>
+					<string>{54, 32}</string>
+				</dict>
+				<key>neck_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>-0.91564178466796875</real>
+					<key>bone</key>
+					<string>neck</string>
+					<key>connAngle</key>
+					<real>-14.041770935058594</real>
+					<key>posOff</key>
+					<string>{-3, -14}</string>
+				</dict>
+				<key>pelvis.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>bone</key>
+					<string>torso</string>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{0, -9}</string>
+				</dict>
+				<key>shoulder_L_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>155.27517700195312</real>
+					<key>bone</key>
+					<string>leftUpperArm</string>
+					<key>connAngle</key>
+					<real>10.718048095703125</real>
+					<key>posOff</key>
+					<string>{3, 26}</string>
+				</dict>
+				<key>shoulder_R_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>225.50962829589844</real>
+					<key>bone</key>
+					<string>rightUpperArm</string>
+					<key>connAngle</key>
+					<real>-38.1767578125</real>
+					<key>posOff</key>
+					<string>{-3, 26}</string>
+				</dict>
+				<key>tennisBall.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>0.0</real>
+					<key>connAngle</key>
+					<real>37.843845367431641</real>
+					<key>posOff</key>
+					<string>{0, 0}</string>
+				</dict>
+				<key>torso_outline.png</key>
+				<dict>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>bone</key>
+					<string>torso</string>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{7, -65}</string>
+				</dict>
+			</dict>
+			<key>time</key>
+			<real>0.0</real>
+		</dict>
+	</array>
+	<key>metadata</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>version</key>
+		<real>1</real>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>name</key>
+	<string>Death</string>
+	<key>playMode</key>
+	<integer>1</integer>
+	<key>positionFrames</key>
+	<array>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{-4, 5}</string>
+				<key>head</key>
+				<string>{12, 158}</string>
+				<key>leftFoot</key>
+				<string>{35, -100}</string>
+				<key>leftHand</key>
+				<string>{40, 6}</string>
+				<key>leftLowerArm</key>
+				<string>{27, 20}</string>
+				<key>leftLowerLeg</key>
+				<string>{11, -98}</string>
+				<key>leftPelvis</key>
+				<string>{15, 0}</string>
+				<key>leftShoulder</key>
+				<string>{11, 93}</string>
+				<key>leftUpperArm</key>
+				<string>{21, 49}</string>
+				<key>leftUpperLeg</key>
+				<string>{23, -42}</string>
+				<key>neck</key>
+				<string>{-1, 124}</string>
+				<key>rightFoot</key>
+				<string>{-10, -100}</string>
+				<key>rightHand</key>
+				<string>{-16, -10}</string>
+				<key>rightLowerArm</key>
+				<string>{-31, 7}</string>
+				<key>rightLowerLeg</key>
+				<string>{-31, -97}</string>
+				<key>rightPelvis</key>
+				<string>{-22, -1}</string>
+				<key>rightShoulder</key>
+				<string>{-27, 94}</string>
+				<key>rightUpperArm</key>
+				<string>{-33, 45}</string>
+				<key>rightUpperLeg</key>
+				<string>{-22, -46}</string>
+				<key>torso</key>
+				<string>{-1, 101}</string>
+			</dict>
+			<key>time</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{2, -3}</string>
+				<key>head</key>
+				<string>{29, 151}</string>
+				<key>leftFoot</key>
+				<string>{10, -101}</string>
+				<key>leftHand</key>
+				<string>{52, 3}</string>
+				<key>leftLowerArm</key>
+				<string>{38, 15}</string>
+				<key>leftLowerLeg</key>
+				<string>{-11, -89}</string>
+				<key>leftPelvis</key>
+				<string>{22, 0}</string>
+				<key>leftShoulder</key>
+				<string>{26, 88}</string>
+				<key>leftUpperArm</key>
+				<string>{29, 43}</string>
+				<key>leftUpperLeg</key>
+				<string>{23, -43}</string>
+				<key>neck</key>
+				<string>{19, 116}</string>
+				<key>rightFoot</key>
+				<string>{-21, -99}</string>
+				<key>rightHand</key>
+				<string>{-3, -12}</string>
+				<key>rightLowerArm</key>
+				<string>{-16, 7}</string>
+				<key>rightLowerLeg</key>
+				<string>{-38, -88}</string>
+				<key>rightPelvis</key>
+				<string>{-16, -1}</string>
+				<key>rightShoulder</key>
+				<string>{-14, 94}</string>
+				<key>rightUpperArm</key>
+				<string>{-22, 45}</string>
+				<key>rightUpperLeg</key>
+				<string>{-9, -45}</string>
+				<key>torso</key>
+				<string>{12, 93}</string>
+			</dict>
+			<key>time</key>
+			<real>0.43011718988418579</real>
+		</dict>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{19, -25}</string>
+				<key>head</key>
+				<string>{34, 128}</string>
+				<key>leftFoot</key>
+				<string>{-18, -100}</string>
+				<key>leftHand</key>
+				<string>{51, -26}</string>
+				<key>leftLowerArm</key>
+				<string>{40, -11}</string>
+				<key>leftLowerLeg</key>
+				<string>{-13, -77}</string>
+				<key>leftPelvis</key>
+				<string>{39, -26}</string>
+				<key>leftShoulder</key>
+				<string>{35, 63}</string>
+				<key>leftUpperArm</key>
+				<string>{35, 19}</string>
+				<key>leftUpperLeg</key>
+				<string>{44, -69}</string>
+				<key>neck</key>
+				<string>{21, 94}</string>
+				<key>rightFoot</key>
+				<string>{-49, -93}</string>
+				<key>rightHand</key>
+				<string>{9, -41}</string>
+				<key>rightLowerArm</key>
+				<string>{0, -19}</string>
+				<key>rightLowerLeg</key>
+				<string>{-42, -74}</string>
+				<key>rightPelvis</key>
+				<string>{2, -33}</string>
+				<key>rightShoulder</key>
+				<string>{-3, 66}</string>
+				<key>rightUpperArm</key>
+				<string>{-13, 17}</string>
+				<key>rightUpperLeg</key>
+				<string>{10, -77}</string>
+				<key>torso</key>
+				<string>{23, 71}</string>
+			</dict>
+			<key>time</key>
+			<real>0.52112495899200439</real>
+		</dict>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{23, -49}</string>
+				<key>head</key>
+				<string>{51, 102}</string>
+				<key>leftFoot</key>
+				<string>{-31, -97}</string>
+				<key>leftHand</key>
+				<string>{47, -50}</string>
+				<key>leftLowerArm</key>
+				<string>{41, -33}</string>
+				<key>leftLowerLeg</key>
+				<string>{-9, -87}</string>
+				<key>leftPelvis</key>
+				<string>{41, -57}</string>
+				<key>leftShoulder</key>
+				<string>{42, 41}</string>
+				<key>leftUpperArm</key>
+				<string>{37, -3}</string>
+				<key>leftUpperLeg</key>
+				<string>{47, -100}</string>
+				<key>neck</key>
+				<string>{32, 71}</string>
+				<key>rightFoot</key>
+				<string>{-53, -97}</string>
+				<key>rightHand</key>
+				<string>{3, -70}</string>
+				<key>rightLowerArm</key>
+				<string>{1, -47}</string>
+				<key>rightLowerLeg</key>
+				<string>{-35, -87}</string>
+				<key>rightPelvis</key>
+				<string>{5, -53}</string>
+				<key>rightShoulder</key>
+				<string>{4, 40}</string>
+				<key>rightUpperArm</key>
+				<string>{-2, -9}</string>
+				<key>rightUpperLeg</key>
+				<string>{16, -96}</string>
+				<key>torso</key>
+				<string>{30, 48}</string>
+			</dict>
+			<key>time</key>
+			<real>0.59606891870498657</real>
+		</dict>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{27, -50}</string>
+				<key>head</key>
+				<string>{64, 98}</string>
+				<key>leftHand</key>
+				<string>{52, -53}</string>
+				<key>leftLowerArm</key>
+				<string>{46, -36}</string>
+				<key>leftPelvis</key>
+				<string>{44, -59}</string>
+				<key>leftShoulder</key>
+				<string>{50, 38}</string>
+				<key>leftUpperArm</key>
+				<string>{43, -6}</string>
+				<key>leftUpperLeg</key>
+				<string>{47, -102}</string>
+				<key>neck</key>
+				<string>{43, 68}</string>
+				<key>rightHand</key>
+				<string>{3, -71}</string>
+				<key>rightLowerArm</key>
+				<string>{3, -48}</string>
+				<key>rightPelvis</key>
+				<string>{8, -53}</string>
+				<key>rightShoulder</key>
+				<string>{12, 39}</string>
+				<key>rightUpperArm</key>
+				<string>{2, -9}</string>
+				<key>torso</key>
+				<string>{38, 45}</string>
+			</dict>
+			<key>time</key>
+			<real>1.4878970384597778</real>
+		</dict>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{45, -55}</string>
+				<key>head</key>
+				<string>{130, 68}</string>
+				<key>leftFoot</key>
+				<string>{-29, -96}</string>
+				<key>leftHand</key>
+				<string>{73, -68}</string>
+				<key>leftLowerArm</key>
+				<string>{71, -50}</string>
+				<key>leftLowerLeg</key>
+				<string>{-7, -87}</string>
+				<key>leftPelvis</key>
+				<string>{59, -68}</string>
+				<key>leftShoulder</key>
+				<string>{91, 22}</string>
+				<key>leftUpperArm</key>
+				<string>{78, -20}</string>
+				<key>leftUpperLeg</key>
+				<string>{46, -109}</string>
+				<key>neck</key>
+				<string>{98, 52}</string>
+				<key>rightHand</key>
+				<string>{4, -62}</string>
+				<key>rightLowerArm</key>
+				<string>{11, -40}</string>
+				<key>rightPelvis</key>
+				<string>{26, -52}</string>
+				<key>rightShoulder</key>
+				<string>{56, 35}</string>
+				<key>rightUpperArm</key>
+				<string>{26, -5}</string>
+				<key>torso</key>
+				<string>{83, 34}</string>
+			</dict>
+			<key>time</key>
+			<real>1.6019704341888428</real>
+		</dict>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{65, -65}</string>
+				<key>head</key>
+				<string>{210, -20}</string>
+				<key>leftFoot</key>
+				<string>{-27, -95}</string>
+				<key>leftHand</key>
+				<string>{78, -92}</string>
+				<key>leftLowerArm</key>
+				<string>{94, -82}</string>
+				<key>leftLowerLeg</key>
+				<string>{-4, -89}</string>
+				<key>leftPelvis</key>
+				<string>{81, -76}</string>
+				<key>leftShoulder</key>
+				<string>{152, -35}</string>
+				<key>leftUpperArm</key>
+				<string>{118, -64}</string>
+				<key>leftUpperLeg</key>
+				<string>{51, -106}</string>
+				<key>neck</key>
+				<string>{174, -18}</string>
+				<key>rightFoot</key>
+				<string>{-54, -97}</string>
+				<key>rightHand</key>
+				<string>{33, -52}</string>
+				<key>rightLowerArm</key>
+				<string>{50, -37}</string>
+				<key>rightLowerLeg</key>
+				<string>{-37, -86}</string>
+				<key>rightPelvis</key>
+				<string>{46, -65}</string>
+				<key>rightShoulder</key>
+				<string>{130, -4}</string>
+				<key>rightUpperArm</key>
+				<string>{82, -15}</string>
+				<key>rightUpperLeg</key>
+				<string>{14, -97}</string>
+				<key>torso</key>
+				<string>{151, -21}</string>
+			</dict>
+			<key>time</key>
+			<real>1.7175606489181519</real>
+		</dict>
+		<dict>
+			<key>bones</key>
+			<dict>
+				<key>RootBone</key>
+				<string>{85, -85}</string>
+				<key>head</key>
+				<string>{239, -82}</string>
+				<key>leftFoot</key>
+				<string>{-18, -95}</string>
+				<key>leftHand</key>
+				<string>{87, -105}</string>
+				<key>leftLowerArm</key>
+				<string>{105, -102}</string>
+				<key>leftLowerLeg</key>
+				<string>{5, -90}</string>
+				<key>leftPelvis</key>
+				<string>{103, -94}</string>
+				<key>leftShoulder</key>
+				<string>{178, -96}</string>
+				<key>leftUpperArm</key>
+				<string>{134, -108}</string>
+				<key>leftUpperLeg</key>
+				<string>{61, -105}</string>
+				<key>neck</key>
+				<string>{204, -75}</string>
+				<key>rightFoot</key>
+				<string>{-36, -103}</string>
+				<key>rightHand</key>
+				<string>{76, -106}</string>
+				<key>rightLowerArm</key>
+				<string>{96, -93}</string>
+				<key>rightLowerLeg</key>
+				<string>{-24, -87}</string>
+				<key>rightPelvis</key>
+				<string>{70, -74}</string>
+				<key>rightShoulder</key>
+				<string>{175, -56}</string>
+				<key>rightUpperArm</key>
+				<string>{130, -77}</string>
+				<key>rightUpperLeg</key>
+				<string>{28, -89}</string>
+				<key>torso</key>
+				<string>{182, -82}</string>
+			</dict>
+			<key>time</key>
+			<real>1.822785496711731</real>
+		</dict>
+	</array>
+	<key>skinFrames</key>
+	<array>
+		<dict>
+			<key>skins</key>
+			<dict>
+				<key>eyes_OPEN.png</key>
+				<string>eyes_OPEN.png</string>
+				<key>foot_LEFT.png</key>
+				<string>foot_LEFT.png</string>
+				<key>foot_RIGHT.png</key>
+				<string>foot_RIGHT.png</string>
+				<key>forearm_L_outline.png</key>
+				<string>forearm_L_outline.png</string>
+				<key>forearm_R_outline.png</key>
+				<string>forearm_R_outline.png</string>
+				<key>gun-belt.png</key>
+				<string>gun-belt.png</string>
+				<key>gun-holster.png</key>
+				<string>gun-holster.png</string>
+				<key>gun.png</key>
+				<string>gun.png</string>
+				<key>hair.png</key>
+				<string>hair.png</string>
+				<key>hand_L_outline.png</key>
+				<string>hand_L_outline.png</string>
+				<key>hand_R_outline.png</key>
+				<string>hand_R_outline.png</string>
+				<key>hat.png</key>
+				<string>hat.png</string>
+				<key>head.png</key>
+				<string>head.png</string>
+				<key>leg_lower_L_outline.png</key>
+				<string>leg_lower_L_outline.png</string>
+				<key>leg_lower_R_outline.png</key>
+				<string>leg_lower_R_outline.png</string>
+				<key>leg_upper_L_outline.png</key>
+				<string>leg_upper_L_outline.png</string>
+				<key>leg_upper_R_outline.png</key>
+				<string>leg_upper_R_outline.png</string>
+				<key>mouth.png</key>
+				<string>mouth.png</string>
+				<key>muzzleFlash.png</key>
+				<string>muzzleFlash.png</string>
+				<key>neck_outline.png</key>
+				<string>neck_outline.png</string>
+				<key>pelvis.png</key>
+				<string>pelvis.png</string>
+				<key>shoulder_L_outline.png</key>
+				<string>shoulder_L_outline.png</string>
+				<key>shoulder_R_outline.png</key>
+				<string>shoulder_R_outline.png</string>
+				<key>tennisBall.png</key>
+				<string>tennisBall.png</string>
+				<key>torso_outline.png</key>
+				<string>torso_outline.png</string>
+			</dict>
+			<key>time</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>skins</key>
+			<dict>
+				<key>eyes_OPEN.png</key>
+				<string>eyes_CLOSED.png</string>
+			</dict>
+			<key>time</key>
+			<real>1.4447228908538818</real>
+		</dict>
+	</array>
+	<key>spriteTransformFrames</key>
+	<array>
+		<dict>
+			<key>time</key>
+			<real>0.0</real>
+			<key>transform</key>
+			<dict>
+				<key>eyes_OPEN.png</key>
+				<dict>
+					<key>angle</key>
+					<real>0.88852691650390625</real>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{29, -31}</string>
+					<key>position</key>
+					<string>{23, 150}</string>
+				</dict>
+				<key>foot_LEFT.png</key>
+				<dict>
+					<key>angle</key>
+					<real>12.602165222167969</real>
+					<key>angleOff</key>
+					<real>92.448226928710938</real>
+					<key>connAngle</key>
+					<real>12.602165222167969</real>
+					<key>posOff</key>
+					<string>{9, 0}</string>
+					<key>position</key>
+					<string>{14, -92}</string>
+				</dict>
+				<key>foot_RIGHT.png</key>
+				<dict>
+					<key>angle</key>
+					<real>10.0872802734375</real>
+					<key>angleOff</key>
+					<real>86.02459716796875</real>
+					<key>connAngle</key>
+					<real>10.0872802734375</real>
+					<key>posOff</key>
+					<string>{8, -1}</string>
+					<key>position</key>
+					<string>{-22, -96}</string>
+				</dict>
+				<key>forearm_L_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>77.498634338378906</real>
+					<key>angleOff</key>
+					<real>91.532829284667969</real>
+					<key>connAngle</key>
+					<real>77.498603820800781</real>
+					<key>posOff</key>
+					<string>{0, 18}</string>
+					<key>position</key>
+					<string>{23, 30}</string>
+				</dict>
+				<key>forearm_R_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-8.5839996337890625</real>
+					<key>angleOff</key>
+					<real>186.57774353027344</real>
+					<key>connAngle</key>
+					<real>-8.583984375</real>
+					<key>posOff</key>
+					<string>{2, 20}</string>
+					<key>position</key>
+					<string>{-31, 27}</string>
+				</dict>
+				<key>gun-belt.png</key>
+				<dict>
+					<key>angle</key>
+					<real>7.2044448852539062</real>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{2, -20}</string>
+					<key>position</key>
+					<string>{-3, 25}</string>
+				</dict>
+				<key>gun-holster.png</key>
+				<dict>
+					<key>angle</key>
+					<real>7.2044448852539062</real>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{-24, -15}</string>
+					<key>position</key>
+					<string>{-28, 19}</string>
+				</dict>
+				<key>gun.png</key>
+				<dict>
+					<key>angle</key>
+					<real>7.2044448852539062</real>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{-32, -24}</string>
+					<key>position</key>
+					<string>{-36, 29}</string>
+				</dict>
+				<key>hair.png</key>
+				<dict>
+					<key>angle</key>
+					<real>0.88852691650390625</real>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{10, -39}</string>
+					<key>position</key>
+					<string>{4, 158}</string>
+				</dict>
+				<key>hand_L_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>28.286651611328125</real>
+					<key>angleOff</key>
+					<real>91.382034301757812</real>
+					<key>connAngle</key>
+					<real>28.28668212890625</real>
+					<key>posOff</key>
+					<string>{4, 6}</string>
+					<key>position</key>
+					<string>{33, 7}</string>
+				</dict>
+				<key>hand_R_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-39.3154296875</real>
+					<key>angleOff</key>
+					<real>178.4052734375</real>
+					<key>connAngle</key>
+					<real>-39.3154296875</real>
+					<key>posOff</key>
+					<string>{9, 9}</string>
+					<key>position</key>
+					<string>{-22, -1}</string>
+				</dict>
+				<key>hat.png</key>
+				<dict>
+					<key>angle</key>
+					<real>0.88854217529296875</real>
+					<key>angleOff</key>
+					<real>23.405136108398438</real>
+					<key>connAngle</key>
+					<real>-0.6160125732421875</real>
+					<key>posOff</key>
+					<string>{10, -67}</string>
+					<key>position</key>
+					<string>{6, 185}</string>
+				</dict>
+				<key>head.png</key>
+				<dict>
+					<key>angle</key>
+					<real>0.88852691650390625</real>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{12, -30}</string>
+					<key>position</key>
+					<string>{6, 149}</string>
+				</dict>
+				<key>leg_lower_L_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>15.99365234375</real>
+					<key>angleOff</key>
+					<real>181.529052734375</real>
+					<key>connAngle</key>
+					<real>15.99365234375</real>
+					<key>posOff</key>
+					<string>{-9, 23}</string>
+					<key>position</key>
+					<string>{11, -71}</string>
+				</dict>
+				<key>leg_lower_R_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>4.709320068359375</real>
+					<key>angleOff</key>
+					<real>184.20648193359375</real>
+					<key>connAngle</key>
+					<real>4.709320068359375</real>
+					<key>posOff</key>
+					<string>{-5, 21}</string>
+					<key>position</key>
+					<string>{-27, -65}</string>
+				</dict>
+				<key>leg_upper_L_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-2.9243621826171875</real>
+					<key>angleOff</key>
+					<real>177.68547058105469</real>
+					<key>connAngle</key>
+					<real>-2.9243621826171875</real>
+					<key>posOff</key>
+					<string>{0, 18}</string>
+					<key>position</key>
+					<string>{15, -18}</string>
+				</dict>
+				<key>leg_upper_R_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-5.882843017578125</real>
+					<key>angleOff</key>
+					<real>185.11367797851562</real>
+					<key>connAngle</key>
+					<real>-5.882843017578125</real>
+					<key>posOff</key>
+					<string>{1, 17}</string>
+					<key>position</key>
+					<string>{-21, -18}</string>
+				</dict>
+				<key>mouth.png</key>
+				<dict>
+					<key>angle</key>
+					<real>0.88852691650390625</real>
+					<key>angleOff</key>
+					<real>23.4051513671875</real>
+					<key>connAngle</key>
+					<real>0.8885040283203125</real>
+					<key>posOff</key>
+					<string>{32, -9}</string>
+					<key>position</key>
+					<string>{26, 129}</string>
+				</dict>
+				<key>muzzleFlash.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-36.883758544921875</real>
+					<key>angleOff</key>
+					<real>175.97360229492188</real>
+					<key>connAngle</key>
+					<real>-36.883758544921875</real>
+					<key>posOff</key>
+					<string>{54, 32}</string>
+					<key>position</key>
+					<string>{22, -24}</string>
+				</dict>
+				<key>neck_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-14.041778564453125</real>
+					<key>angleOff</key>
+					<real>-0.91564178466796875</real>
+					<key>connAngle</key>
+					<real>-14.041770935058594</real>
+					<key>posOff</key>
+					<string>{-3, -14}</string>
+					<key>position</key>
+					<string>{-4, 115}</string>
+				</dict>
+				<key>pelvis.png</key>
+				<dict>
+					<key>angle</key>
+					<real>7.2044448852539062</real>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{0, -9}</string>
+					<key>position</key>
+					<string>{-4, 13}</string>
+				</dict>
+				<key>shoulder_L_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>10.718048095703125</real>
+					<key>angleOff</key>
+					<real>155.27517700195312</real>
+					<key>connAngle</key>
+					<real>10.718048095703125</real>
+					<key>posOff</key>
+					<string>{3, 26}</string>
+					<key>position</key>
+					<string>{14, 66}</string>
+				</dict>
+				<key>shoulder_R_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-38.176742553710938</real>
+					<key>angleOff</key>
+					<real>225.50962829589844</real>
+					<key>connAngle</key>
+					<real>-38.1767578125</real>
+					<key>posOff</key>
+					<string>{-3, 26}</string>
+					<key>position</key>
+					<string>{-30, 69}</string>
+				</dict>
+				<key>tennisBall.png</key>
+				<dict>
+					<key>angle</key>
+					<real>-1.52587890625e-05</real>
+					<key>angleOff</key>
+					<real>0.0</real>
+					<key>connAngle</key>
+					<real>37.843845367431641</real>
+					<key>posOff</key>
+					<string>{0, 0}</string>
+					<key>position</key>
+					<string>{-5, 19}</string>
+				</dict>
+				<key>torso_outline.png</key>
+				<dict>
+					<key>angle</key>
+					<real>7.2044448852539062</real>
+					<key>angleOff</key>
+					<real>-5.28668212890625</real>
+					<key>connAngle</key>
+					<real>7.2044448852539062</real>
+					<key>posOff</key>
+					<string>{7, -65}</string>
+					<key>position</key>
+					<string>{2, 70}</string>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>totalTime</key>
+	<real>3.2000000476837158</real>
+	<key>visibilityFrames</key>
+	<array>
+		<dict>
+			<key>sprites</key>
+			<dict>
+				<key>eyes_OPEN.png</key>
+				<true/>
+				<key>foot_LEFT.png</key>
+				<true/>
+				<key>foot_RIGHT.png</key>
+				<true/>
+				<key>forearm_L_outline.png</key>
+				<true/>
+				<key>forearm_R_outline.png</key>
+				<true/>
+				<key>gun-belt.png</key>
+				<true/>
+				<key>gun-holster.png</key>
+				<true/>
+				<key>gun.png</key>
+				<true/>
+				<key>hair.png</key>
+				<true/>
+				<key>hand_L_outline.png</key>
+				<true/>
+				<key>hand_R_outline.png</key>
+				<true/>
+				<key>hat.png</key>
+				<true/>
+				<key>head.png</key>
+				<true/>
+				<key>leg_lower_L_outline.png</key>
+				<true/>
+				<key>leg_lower_R_outline.png</key>
+				<true/>
+				<key>leg_upper_L_outline.png</key>
+				<true/>
+				<key>leg_upper_R_outline.png</key>
+				<true/>
+				<key>mouth.png</key>
+				<true/>
+				<key>muzzleFlash.png</key>
+				<false/>
+				<key>neck_outline.png</key>
+				<true/>
+				<key>pelvis.png</key>
+				<true/>
+				<key>shoulder_L_outline.png</key>
+				<true/>
+				<key>shoulder_R_outline.png</key>
+				<true/>
+				<key>tennisBall.png</key>
+				<false/>
+				<key>torso_outline.png</key>
+				<true/>
+			</dict>
+			<key>time</key>
+			<real>0.0</real>
+		</dict>
+	</array>
+	<key>zOrderFrames</key>
+	<array>
+		<dict>
+			<key>sprites</key>
+			<dict>
+				<key>eyes_OPEN.png</key>
+				<integer>16</integer>
+				<key>foot_LEFT.png</key>
+				<integer>5</integer>
+				<key>foot_RIGHT.png</key>
+				<integer>8</integer>
+				<key>forearm_L_outline.png</key>
+				<integer>1</integer>
+				<key>forearm_R_outline.png</key>
+				<integer>22</integer>
+				<key>gun-belt.png</key>
+				<integer>10</integer>
+				<key>gun-holster.png</key>
+				<integer>14</integer>
+				<key>gun.png</key>
+				<integer>13</integer>
+				<key>hair.png</key>
+				<integer>18</integer>
+				<key>hand_L_outline.png</key>
+				<integer>2</integer>
+				<key>hand_R_outline.png</key>
+				<integer>20</integer>
+				<key>hat.png</key>
+				<integer>19</integer>
+				<key>head.png</key>
+				<integer>15</integer>
+				<key>leg_lower_L_outline.png</key>
+				<integer>4</integer>
+				<key>leg_lower_R_outline.png</key>
+				<integer>7</integer>
+				<key>leg_upper_L_outline.png</key>
+				<integer>3</integer>
+				<key>leg_upper_R_outline.png</key>
+				<integer>6</integer>
+				<key>mouth.png</key>
+				<integer>17</integer>
+				<key>muzzleFlash.png</key>
+				<integer>23</integer>
+				<key>neck_outline.png</key>
+				<integer>11</integer>
+				<key>pelvis.png</key>
+				<integer>9</integer>
+				<key>shoulder_L_outline.png</key>
+				<integer>0</integer>
+				<key>shoulder_R_outline.png</key>
+				<integer>21</integer>
+				<key>tennisBall.png</key>
+				<integer>24</integer>
+				<key>torso_outline.png</key>
+				<integer>12</integer>
+			</dict>
+			<key>time</key>
+			<real>0.0</real>
+		</dict>
+	</array>
+</dict>
+</plist>

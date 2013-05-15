@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>SUNGLASSES.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{213, 148}, {140, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 140}}</string>
+			<key>sourceSize</key>
+			<string>{140, 40}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>angry_mouth.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{212, 1313}, {49, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 49}}</string>
+			<key>sourceSize</key>
+			<string>{49, 37}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>eyes_ANGRY.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{190, 1379}, {73, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 73}}</string>
+			<key>sourceSize</key>
+			<string>{73, 50}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>eyes_CLOSED.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{113, 1379}, {73, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {73, 50}}</string>
+			<key>sourceSize</key>
+			<string>{73, 50}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>eyes_OPEN.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{59, 1374}, {76, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 50}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>foot_LEFT.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{191, 292}, {115, 59}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {59, 115}}</string>
+			<key>sourceSize</key>
+			<string>{115, 59}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>foot_RIGHT.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{192, 1018}, {115, 59}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {59, 115}}</string>
+			<key>sourceSize</key>
+			<string>{115, 59}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>forearm_L_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1263}, {101, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {57, 101}}</string>
+			<key>sourceSize</key>
+			<string>{101, 57}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>forearm_R_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{188, 1137}, {63, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 107}}</string>
+			<key>sourceSize</key>
+			<string>{63, 107}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>gun-belt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{213, 2}, {142, 41}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 142}}</string>
+			<key>sourceSize</key>
+			<string>{142, 41}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>gun-holster.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1368}, {53, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {53, 82}}</string>
+			<key>sourceSize</key>
+			<string>{53, 82}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>gun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168, 1248}, {61, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {84, 61}}</string>
+			<key>sourceSize</key>
+			<string>{61, 84}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>hair.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 663}, {143, 137}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {143, 137}}</string>
+			<key>sourceSize</key>
+			<string>{143, 137}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>handOpen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 1118}, {88, 105}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 88}}</string>
+			<key>sourceSize</key>
+			<string>{88, 105}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>handOpenBackHand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 1018}, {96, 98}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {98, 96}}</string>
+			<key>sourceSize</key>
+			<string>{96, 98}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>handPoint.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1045}, {73, 113}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {73, 113}}</string>
+			<key>sourceSize</key>
+			<string>{73, 113}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>handRest.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1162}, {63, 97}}</string>
+			<key>offset</key>
+			<string>{-8, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 97}}</string>
+			<key>sourceSize</key>
+			<string>{79, 97}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>hand_L_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 1313}, {62, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 62}}</string>
+			<key>sourceSize</key>
+			<string>{62, 70}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>hand_OpenGrab.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{69, 1210}, {95, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 88}}</string>
+			<key>sourceSize</key>
+			<string>{95, 88}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>hand_R_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 1302}, {68, 71}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {71, 68}}</string>
+			<key>sourceSize</key>
+			<string>{68, 71}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>hat.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 460}, {199, 115}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {115, 199}}</string>
+			<key>sourceSize</key>
+			<string>{199, 115}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>head.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 314}, {142, 165}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {165, 142}}</string>
+			<key>sourceSize</key>
+			<string>{142, 165}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>leg_lower_L_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 934}, {80, 131}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {131, 80}}</string>
+			<key>sourceSize</key>
+			<string>{80, 131}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>leg_lower_R_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 916}, {84, 125}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {84, 125}}</string>
+			<key>sourceSize</key>
+			<string>{84, 125}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>leg_upper_L_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 411}, {75, 147}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 147}}</string>
+			<key>sourceSize</key>
+			<string>{75, 147}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>leg_upper_R_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{158, 562}, {90, 138}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 138}}</string>
+			<key>sourceSize</key>
+			<string>{90, 138}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>mouth.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{121, 603}, {47, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 47}}</string>
+			<key>sourceSize</key>
+			<string>{47, 32}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>muzzleFlash.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{121, 537}, {33, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {33, 62}}</string>
+			<key>sourceSize</key>
+			<string>{33, 62}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>neck_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{113, 1433}, {65, 55}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {65, 55}}</string>
+			<key>sourceSize</key>
+			<string>{65, 55}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>pant_bottom_RIGHT.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{121, 460}, {73, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 73}}</string>
+			<key>sourceSize</key>
+			<string>{73, 32}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>pelvis.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{149, 704}, {135, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 135}}</string>
+			<key>sourceSize</key>
+			<string>{135, 100}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>shoulder_L_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{114, 843}, {87, 125}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {125, 87}}</string>
+			<key>sourceSize</key>
+			<string>{87, 125}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>shoulder_R_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 804}, {108, 108}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 108}}</string>
+			<key>sourceSize</key>
+			<string>{108, 108}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>tennisBall.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{182, 1456}, {52, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 52}}</string>
+			<key>sourceSize</key>
+			<string>{52, 52}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>torso_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {153, 207}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {207, 153}}</string>
+			<key>sourceSize</key>
+			<string>{153, 207}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+		<key>vest_outline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 159}, {151, 185}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {185, 151}}</string>
+			<key>sourceSize</key>
+			<string>{151, 185}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{10, 0}, {10, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 1510}</string>
+		<key>textureFileName</key>
+		<string>Officer_Officer.png</string>
+	</dict>
+</dict>
+</plist>

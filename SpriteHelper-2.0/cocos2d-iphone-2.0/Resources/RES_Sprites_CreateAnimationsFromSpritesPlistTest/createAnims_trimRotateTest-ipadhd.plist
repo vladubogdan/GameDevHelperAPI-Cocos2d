@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>TrimAnimation_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1756, 561}, {552, 215}}</string>
+			<key>offset</key>
+			<string>{-662, -170}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {215, 552}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1120}, {1623, 555}}</string>
+			<key>offset</key>
+			<string>{-126.5, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {1623, 555}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 561}, {1750, 555}}</string>
+			<key>offset</key>
+			<string>{-63, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {1750, 555}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {1876, 555}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {1876, 555}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1629, 1120}, {599, 348}}</string>
+			<key>offset</key>
+			<string>{-638.5, -103.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {348, 599}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 3623}, {748, 442}}</string>
+			<key>offset</key>
+			<string>{-564, -56.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 163}, {748, 442}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{884, 2238}, {806, 488}}</string>
+			<key>offset</key>
+			<string>{-535, -33.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {488, 806}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2238}, {878, 538}}</string>
+			<key>offset</key>
+			<string>{-499, -8.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 67}, {878, 538}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1183, 3064}, {991, 555}}</string>
+			<key>offset</key>
+			<string>{-442.5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {555, 991}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 3064}, {1177, 555}}</string>
+			<key>offset</key>
+			<string>{-349.5, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {1177, 555}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1425, 1723}, {1337, 555}}</string>
+			<key>offset</key>
+			<string>{-269.5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {555, 1337}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>TrimAnimation_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1679}, {1419, 555}}</string>
+			<key>offset</key>
+			<string>{-228.5, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{50, 50}, {1419, 555}}</string>
+			<key>sourceSize</key>
+			<string>{1976, 655}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1982, 4067}</string>
+		<key>textureFileName</key>
+		<string>createAnims_trimRotateTest.png</string>
+	</dict>
+</dict>
+</plist>

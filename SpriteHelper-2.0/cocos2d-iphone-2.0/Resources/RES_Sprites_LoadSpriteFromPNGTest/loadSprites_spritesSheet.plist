@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>backpack</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 71}, {40, 48}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {40, 48}}</string>
+			<key>sourceSize</key>
+			<string>{45, 53}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>banana</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74, 1}, {41, 28}}</string>
+			<key>offset</key>
+			<string>{0.5, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 2}, {41, 28}}</string>
+			<key>sourceSize</key>
+			<string>{46, 32}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bananabunch</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74, 30}, {39, 27}}</string>
+			<key>offset</key>
+			<string>{1.5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {27, 39}}</string>
+			<key>sourceSize</key>
+			<string>{44, 33}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>canteen</key>
+		<dict>
+			<key>frame</key>
+			<string>{{102, 30}, {21, 32}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {21, 32}}</string>
+			<key>sourceSize</key>
+			<string>{30, 39}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>hat</key>
+		<dict>
+			<key>frame</key>
+			<string>{{41, 71}, {54, 32}}</string>
+			<key>offset</key>
+			<string>{0.5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {32, 54}}</string>
+			<key>sourceSize</key>
+			<string>{61, 38}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>pineapple</key>
+		<dict>
+			<key>frame</key>
+			<string>{{47, 1}, {25, 63}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {25, 63}}</string>
+			<key>sourceSize</key>
+			<string>{30, 67}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>statue</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {46, 69}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 3}, {46, 69}}</string>
+			<key>sourceSize</key>
+			<string>{53, 74}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{125, 127}</string>
+		<key>textureFileName</key>
+		<string>loadSprites_spritesSheet.png</string>
+	</dict>
+</dict>
+</plist>

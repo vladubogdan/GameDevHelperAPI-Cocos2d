@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>fruit1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{954, 1024}, {984, 888}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {984, 888}}</string>
+			<key>sourceSize</key>
+			<string>{984, 888}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>fruit2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1923}, {950, 712}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {712, 950}}</string>
+			<key>sourceSize</key>
+			<string>{950, 712}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>fruit3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{954, 1916}, {801, 962}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {962, 801}}</string>
+			<key>sourceSize</key>
+			<string>{801, 962}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>fruit4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1171, 2}, {817, 1018}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {817, 1018}}</string>
+			<key>sourceSize</key>
+			<string>{817, 1018}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>fruit5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 997}, {922, 948}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {948, 922}}</string>
+			<key>sourceSize</key>
+			<string>{922, 948}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>fruit6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{718, 2721}, {484, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {588, 484}}</string>
+			<key>sourceSize</key>
+			<string>{484, 588}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>fruit7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {1165, 991}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1165, 991}}</string>
+			<key>sourceSize</key>
+			<string>{1165, 991}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>fruit8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2877}, {512, 395}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {512, 395}}</string>
+			<key>sourceSize</key>
+			<string>{512, 395}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1990, 3274}</string>
+		<key>textureFileName</key>
+		<string>fruits_fruits.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

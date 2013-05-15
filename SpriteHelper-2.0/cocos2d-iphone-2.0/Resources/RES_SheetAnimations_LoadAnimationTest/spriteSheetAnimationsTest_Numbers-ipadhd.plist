@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>number_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 201}, {61, 81}}</string>
+			<key>offset</key>
+			<string>{1.5, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 10}, {81, 61}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 580}, {50, 79}}</string>
+			<key>offset</key>
+			<string>{2, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {79, 50}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 331}, {60, 79}}</string>
+			<key>offset</key>
+			<string>{2, 0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{7, 11}, {79, 60}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 395}, {58, 81}}</string>
+			<key>offset</key>
+			<string>{2, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 12}, {81, 58}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {64, 79}}</string>
+			<key>offset</key>
+			<string>{2, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 9}, {79, 64}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 520}, {56, 80}}</string>
+			<key>offset</key>
+			<string>{2, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 13}, {80, 56}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 70}, {62, 81}}</string>
+			<key>offset</key>
+			<string>{2, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 10}, {81, 62}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 457}, {59, 79}}</string>
+			<key>offset</key>
+			<string>{3.5, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 13}, {79, 59}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 136}, {61, 81}}</string>
+			<key>offset</key>
+			<string>{1.5, -0.5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 10}, {81, 61}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+		<key>number_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 266}, {61, 80}}</string>
+			<key>offset</key>
+			<string>{1.5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 10}, {80, 61}}</string>
+			<key>sourceSize</key>
+			<string>{78, 92}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 252}, {254, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{85, 632}</string>
+		<key>textureFileName</key>
+		<string>spriteSheetAnimationsTest_Numbers.png</string>
+	</dict>
+</dict>
+</plist>
