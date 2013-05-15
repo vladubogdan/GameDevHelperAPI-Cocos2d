@@ -11,7 +11,7 @@ Learn how to use SpriteHelper 2.0 from the official <a href="http://www.gamedevh
 
 [![ScreenShot](https://raw.github.com/vladubogdan/GameDevHelperAPI-Cocos2d/master/readmeResources/SpriteHelperSpriteSheetAnimationVideo.png)](http://youtu.be/Qq3wVPsP-4A)
 
-[![ScreenShot](https://raw.github.com/vladubogdan/GameDevHelperAPI-Cocos2d/master/readmeResources/SpriteHelperPhysicsEditorVideo.png)]
+[![ScreenShot](https://raw.github.com/vladubogdan/GameDevHelperAPI-Cocos2d/master/readmeResources/SpriteHelperPhysicsEditorVideo.png)](http://www.youtube.com/watch?v=r9IwtkK55dU)
 
 [![ScreenShot](https://raw.github.com/vladubogdan/GameDevHelperAPI-Cocos2d/master/readmeResources/SpriteHelperSkeletalAnimationVideo.png)]
 
