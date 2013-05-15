@@ -7,7 +7,7 @@ Visit <a href="http://www.gamedevhelper.com">Game dev Helper.com</a> for detaile
 
 Learn how to use SpriteHelper 2.0 from the official <a href="http://www.gamedevhelper.com">documentation page</a> or from the following videos
 
-[![ScreenShot](https://raw.github.com/vladubogdan/GameDevHelperAPI-Cocos2d/master/readmeResources/SpriteHelperSpriteSheetsEditorVideo.png)]
+[![ScreenShot](https://raw.github.com/vladubogdan/GameDevHelperAPI-Cocos2d/master/readmeResources/SpriteHelperSpriteSheetsEditorVideo.png)](http://youtu.be/ubsFw7cndq0)
 
 [![ScreenShot](https://raw.github.com/vladubogdan/GameDevHelperAPI-Cocos2d/master/readmeResources/SpriteHelperSpriteSheetAnimationVideo.png)]
 
