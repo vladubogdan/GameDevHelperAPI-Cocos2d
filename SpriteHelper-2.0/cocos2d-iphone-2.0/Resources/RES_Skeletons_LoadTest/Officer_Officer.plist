@@ -16,7 +16,7 @@
 		<key>SUNGLASSES.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{53, 37}, {35, 10}}</string>
+			<string>{{32, 119}, {35, 10}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -33,7 +33,7 @@
 		<key>angry_mouth.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{53, 328}, {12, 9}}</string>
+			<string>{{32, 156}, {12, 9}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -50,7 +50,7 @@
 		<key>eyes_ANGRY.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{48, 345}, {18, 13}}</string>
+			<string>{{16, 384}, {18, 13}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -67,13 +67,13 @@
 		<key>eyes_CLOSED.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{28, 345}, {18, 13}}</string>
+			<string>{{1, 384}, {18, 13}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {18, 13}}</string>
+			<string>{{0, 0}, {13, 18}}</string>
 			<key>sourceSize</key>
 			<string>{18, 13}</string>
 			<key>tag</key>
@@ -84,7 +84,7 @@
 		<key>eyes_OPEN.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{15, 344}, {19, 13}}</string>
+			<string>{{1, 363}, {19, 13}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -101,7 +101,7 @@
 		<key>foot_LEFT.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{48, 73}, {29, 15}}</string>
+			<string>{{1, 310}, {29, 15}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -118,13 +118,13 @@
 		<key>foot_RIGHT.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{48, 255}, {29, 15}}</string>
+			<string>{{18, 314}, {29, 15}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {15, 29}}</string>
+			<string>{{0, 0}, {29, 15}}</string>
 			<key>sourceSize</key>
 			<string>{29, 15}</string>
 			<key>tag</key>
@@ -135,7 +135,7 @@
 		<key>forearm_L_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 316}, {25, 14}}</string>
+			<string>{{49, 314}, {25, 14}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -152,13 +152,13 @@
 		<key>forearm_R_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{47, 284}, {16, 27}}</string>
+			<string>{{18, 330}, {16, 27}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {16, 27}}</string>
+			<string>{{0, 0}, {27, 16}}</string>
 			<key>sourceSize</key>
 			<string>{16, 27}</string>
 			<key>tag</key>
@@ -169,7 +169,7 @@
 		<key>gun-belt.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{53, 1}, {36, 10}}</string>
+			<string>{{49, 53}, {36, 10}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -186,7 +186,7 @@
 		<key>gun-holster.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 342}, {13, 21}}</string>
+			<string>{{1, 340}, {13, 21}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -203,7 +203,7 @@
 		<key>gun.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{42, 312}, {15, 21}}</string>
+			<string>{{16, 348}, {15, 21}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -220,7 +220,7 @@
 		<key>hair.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 166}, {36, 34}}</string>
+			<string>{{1, 170}, {36, 34}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -237,7 +237,7 @@
 		<key>handOpen.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{20, 280}, {22, 26}}</string>
+			<string>{{1, 286}, {22, 26}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -254,7 +254,7 @@
 		<key>handOpenBackHand.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{23, 255}, {24, 25}}</string>
+			<string>{{34, 264}, {24, 25}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -271,7 +271,7 @@
 		<key>handPoint.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 261}, {18, 28}}</string>
+			<string>{{44, 129}, {18, 28}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -288,7 +288,7 @@
 		<key>handRest.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 291}, {16, 24}}</string>
+			<string>{{47, 341}, {16, 24}}</string>
 			<key>offset</key>
 			<string>{-2, 0}</string>
 			<key>rotated</key>
@@ -305,7 +305,7 @@
 		<key>hand_L_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{35, 328}, {16, 18}}</string>
+			<string>{{35, 367}, {16, 18}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -322,7 +322,7 @@
 		<key>hand_OpenGrab.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{17, 303}, {24, 22}}</string>
+			<string>{{29, 290}, {24, 22}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -339,7 +339,7 @@
 		<key>hand_R_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{16, 326}, {17, 18}}</string>
+			<string>{{16, 365}, {17, 18}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -356,7 +356,7 @@
 		<key>hat.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 115}, {50, 29}}</string>
+			<string>{{1, 119}, {50, 29}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -373,7 +373,7 @@
 		<key>head.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 79}, {36, 41}}</string>
+			<string>{{1, 81}, {36, 41}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -390,13 +390,13 @@
 		<key>leg_lower_L_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{23, 234}, {20, 33}}</string>
+			<string>{{43, 159}, {20, 33}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {33, 20}}</string>
+			<string>{{0, 0}, {20, 33}}</string>
 			<key>sourceSize</key>
 			<string>{20, 33}</string>
 			<key>tag</key>
@@ -407,13 +407,13 @@
 		<key>leg_lower_R_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 229}, {21, 31}}</string>
+			<string>{{1, 263}, {21, 31}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {21, 31}}</string>
+			<string>{{0, 0}, {31, 21}}</string>
 			<key>sourceSize</key>
 			<string>{21, 31}</string>
 			<key>tag</key>
@@ -424,7 +424,7 @@
 		<key>leg_upper_L_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{43, 103}, {19, 37}}</string>
+			<string>{{44, 90}, {19, 37}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -441,7 +441,7 @@
 		<key>leg_upper_R_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{40, 141}, {23, 35}}</string>
+			<string>{{39, 194}, {23, 35}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -458,7 +458,7 @@
 		<key>mouth.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{30, 151}, {12, 8}}</string>
+			<string>{{55, 39}, {12, 8}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -475,7 +475,7 @@
 		<key>muzzleFlash.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{30, 134}, {8, 16}}</string>
+			<string>{{55, 21}, {8, 16}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -492,7 +492,7 @@
 		<key>neck_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{28, 358}, {16, 14}}</string>
+			<string>{{30, 385}, {16, 14}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -509,7 +509,7 @@
 		<key>pant_bottom_RIGHT.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{30, 115}, {18, 8}}</string>
+			<string>{{55, 1}, {18, 8}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -526,13 +526,13 @@
 		<key>pelvis.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{37, 176}, {34, 25}}</string>
+			<string>{{1, 207}, {34, 25}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {25, 34}}</string>
+			<string>{{0, 0}, {34, 25}}</string>
 			<key>sourceSize</key>
 			<string>{34, 25}</string>
 			<key>tag</key>
@@ -543,13 +543,13 @@
 		<key>shoulder_L_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{29, 211}, {22, 31}}</string>
+			<string>{{37, 230}, {22, 31}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {31, 22}}</string>
+			<string>{{0, 0}, {22, 31}}</string>
 			<key>sourceSize</key>
 			<string>{22, 31}</string>
 			<key>tag</key>
@@ -560,7 +560,7 @@
 		<key>shoulder_R_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 201}, {27, 27}}</string>
+			<string>{{1, 234}, {27, 27}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -577,7 +577,7 @@
 		<key>tennisBall.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46, 364}, {13, 13}}</string>
+			<string>{{48, 385}, {13, 13}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -611,7 +611,7 @@
 		<key>vest_outline.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 40}, {38, 46}}</string>
+			<string>{{1, 41}, {38, 46}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -631,7 +631,7 @@
 		<key>format</key>
 		<integer>2</integer>
 		<key>size</key>
-		<string>{65, 379}</string>
+		<string>{67, 406}</string>
 		<key>textureFileName</key>
 		<string>Officer_Officer.png</string>
 	</dict>
