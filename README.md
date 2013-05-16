@@ -25,7 +25,7 @@ Visit <a href="http://www.gamedevhelper.com">Game dev Helper.com</a> for detaile
 
 <br>
 <br>
-<a href="" target="_blank"><img src="http://www.gamedevhelper.com/githubReadme/SpriteHelperSkeletalAnimationVideo.png" alt="Skeletal Animations Editor"></a>
+<a href="http://youtu.be/jmN74afkBcY" target="_blank"><img src="http://www.gamedevhelper.com/githubReadme/SpriteHelperSkeletalAnimationVideo.png" alt="Skeletal Animations Editor"></a>
 
 <br>
 <br>
