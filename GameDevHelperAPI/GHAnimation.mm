@@ -82,11 +82,6 @@
 @synthesize maxRandomTime;
 
 
-/** creates an animation from a plist file.
- Make sure that the frames were previously loaded in the CCSpriteFrameCache.
- */
-
-
 -(id)initWithDictionary:(NSDictionary*)dict name:(NSString*)val{
 
     self = [super init];

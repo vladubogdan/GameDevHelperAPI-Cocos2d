@@ -9,8 +9,20 @@
 #ifndef _GameDevHelper_API_h
 #define _GameDevHelper_API_h
 
+
 // 0x00 HI ME LO
 // 00   02 01 00
+/**
+ The version of the API. Use this in order to support multiple versions of the api in your code. 
+ 
+ @code
+ #if GAME_DEV_HELPER_API_VERSION == 0x00010000
+    //do something
+ #else
+    //do something else
+ #endif
+ @endcode
+ */
 #define GAME_DEV_HELPER_API_VERSION 0x00010000
 
 

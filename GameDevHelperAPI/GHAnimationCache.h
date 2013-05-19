@@ -9,6 +9,14 @@
 #import "cocos2d.h"
 
 @class GHAnimation;
+
+/** 
+ Singleton that manages the GHAnimation objects.
+ 
+ It saves in a cache the sprite sheet animations.
+ 
+ You should use this class if you want to pre-load your animations in a cache.
+*/
 @interface GHAnimationCache : NSObject
 {
     NSMutableDictionary* animations_;

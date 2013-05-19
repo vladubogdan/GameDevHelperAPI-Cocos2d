@@ -10,7 +10,6 @@
 #import "GHDirector.h"
 #import "ghMacros.h"
 
-#import "GHAnimation.h"
 #import "GHAnimationCache.h"
 
 @interface GHAnimation (GH_ANIMATION_SPRITE_PRIVATE)
