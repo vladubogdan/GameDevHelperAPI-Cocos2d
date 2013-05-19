@@ -1,6 +1,10 @@
 GameDevHelperAPI-Cocos2d
 ========================
 
+IMPORTANT NOTE:
+There is currently an issue in SpriteHelper that makes skeletal animation not to work if bones exist with same name.
+Make sure you rename all your skeleton bones to have unique names. No 2 bones must have the same name. 
+This issue will be fixed in the SpriteHelper update that will come tomorrow May, 20, 2013.
 
 
 <table border="0">
