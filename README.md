@@ -40,7 +40,6 @@ Test who's names starts with:<br>
 "<b>Skeletons_</b>" are related to the <b><i>Skeletal Animations Editor</i></b>.<br/>
 
 
-If you need help with the project,<br>please <a href="http://www.gamedevhelper.com/contact/" target="_blank">contact me</a>.
-
+If you need help with the project, please <a href="http://www.gamedevhelper.com/contact/" target="_blank">contact me</a>.
 <br><br>
 I wish you a great experience using this product. I work hard to make my products as good as they can possibly be. I really hope you enjoy using them!
