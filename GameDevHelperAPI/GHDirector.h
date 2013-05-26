@@ -12,10 +12,6 @@
 #import "Box2D.h"
 #endif
 
-@class LHLayer;
-@class LHSprite;
-@class LHJoint;
-@class LHBezier;
 
 /**
  This singleton is used to control the entire API. 
