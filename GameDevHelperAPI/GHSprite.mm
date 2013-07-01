@@ -258,9 +258,11 @@
             NSString* offsetStr = [shInfo objectForKey:@"circleOffset"];
             CGPoint offset = CGPointFromString(offsetStr);
             
-            circle.m_radius = GH_VALUE_TO_METERS(circleRadius)/2.0f;
+            circle.m_radius = GH_VALUE_TO_METERS(circleRadius)/2.0f/CC_CONTENT_SCALE_FACTOR();
             
             circle.m_p = GH_POINT_TO_METERS(offset);
+            circle.m_p.x /= CC_CONTENT_SCALE_FACTOR();
+            circle.m_p.y /= CC_CONTENT_SCALE_FACTOR();
             
             fixture.shape = &circle;
             
@@ -295,6 +297,9 @@
                     NSString* pointStr = [fixPoints objectAtIndex:(NSUInteger)j];
                     CGPoint point = CGPointFromString(pointStr);
 
+                    point.x /= CC_CONTENT_SCALE_FACTOR();
+                    point.y /= CC_CONTENT_SCALE_FACTOR();
+                    
                     //flip y for cocos2d coordinate system
                     point.y =  [self textureRect].size.height - point.y;
                     point.y = point.y - [self textureRect].size.height;
