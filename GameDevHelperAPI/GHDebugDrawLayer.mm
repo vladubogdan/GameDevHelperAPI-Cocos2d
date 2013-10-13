@@ -362,7 +362,6 @@
 	CHECK_GL_ERROR_DEBUG();
 }
 
-#endif
-
-
 @end
+
+#endif
