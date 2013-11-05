@@ -61,8 +61,7 @@
  skeleton = [GHSkeleton skeletonWithFile:@"resourceFolderWhereItWasPublished/skeletons/DocName_SkeletonName.plist"];
  @endcode
  */
-@interface GHSkeleton : CCNode
-{
+@interface GHSkeleton : CCNode {
     GHBone* rootBone;
     CCSpriteBatchNode* batchNode_;//sprites are kept in this batchNode
     
@@ -159,5 +158,15 @@ This will change or set an animation by transitioning each bone position
  Stops the active skeleton animation.
  */
 -(void)stopAnimation;
+
+/**
+ Returns a CGRect that is the sum of all the skins. 
+ */
+-(CGRect) boundingBox;
+
+/**
+ Returns an array of NSValues that represent the individual boundingboxes for each skin. Could be used for more detailed hit testing.
+ */
+-(NSMutableArray*)boundingBoxesArray;
 
 @end
