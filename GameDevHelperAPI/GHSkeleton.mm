@@ -43,11 +43,12 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 @implementation GHSkeleton
+@synthesize name = _name;
 
 -(void)dealloc{
     delegate = nil;
 #ifdef GH_DEBUG
-    shaderProgram_ = nil;
+    _shaderProgram = nil;
 #endif
     [self unscheduleAllSelectors];
     [self unscheduleUpdate];
@@ -57,7 +58,8 @@
     [transitionTime release];
     transitionTime = nil;
     
-    [animation release];
+    if(animation)
+        [animation release];
     animation = nil;
     
     [super dealloc];
@@ -367,8 +369,7 @@
     if(transitionTime){[transitionTime release]; transitionTime = nil;}
     currentTranstionTime = 0;
     
-    animation = anim;
-    [animation retain];
+    animation = [anim copy];
     
     [anim setCurrentTime:0];
     [anim setCurrentLoop:0];
@@ -892,22 +893,46 @@
 }
 
 
+
+-(CGRect)boundingBox{
+    
+    CGRect bigBox = CGRectZero;
+    
+    for(GHBoneSkin* skin in skins) {bigBox = CGRectUnion(bigBox, [skin boundingBox]);}
+    
+    return bigBox;
+    
+}
+
+-(NSMutableArray*)boundingBoxesArray{
+    
+    NSMutableArray* allBoundingBoxes = [NSMutableArray array];
+    for(GHBoneSkin* skin in skins) {
+        [allBoundingBoxes addObject:[NSValue valueWithCGRect:[skin boundingBox]]];
+    }
+    
+    return allBoundingBoxes;
+    
+    
+}
+
+
 #ifdef GH_DEBUG
 
 -(void)initShader
 {
-	shaderProgram_ = [[CCShaderCache sharedShaderCache] programForKey:kCCShader_Position_uColor];
+	_shaderProgram = [[CCShaderCache sharedShaderCache] programForKey:kCCShader_Position_uColor];
 	
-	colorLocation_ = glGetUniformLocation( shaderProgram_->program_, "u_color");
+	colorLocation_ = glGetUniformLocation( _shaderProgram->_program, "u_color");
 }
 
 -(void)debugDrawBone:(GHBone*)bone
 {
     if([bone rigid]){
-        [shaderProgram_ setUniformLocation:colorLocation_ withF1:0 f2:0 f3:1 f4:1];
+        [_shaderProgram setUniformLocation:colorLocation_ withF1:0 f2:0 f3:1 f4:1];
     }
     else{
-        [shaderProgram_ setUniformLocation:colorLocation_ withF1:0 f2:1 f3:0 f4:1];
+        [_shaderProgram setUniformLocation:colorLocation_ withF1:0 f2:1 f3:0 f4:1];
     }
     
     for(GHBone* child in [bone children])
@@ -925,17 +950,56 @@
     }
 }
 
--(void) draw{
-    if(!shaderProgram_)return;
-    
-    [shaderProgram_ use];
-	[shaderProgram_ setUniformForModelViewProjectionMatrix];
 
-    [self debugDrawBone:rootBone];
+
+-(void) draw{
+    if(!_shaderProgram)return;
+    
+    [_shaderProgram use];
+	[_shaderProgram setUniformsForBuiltins];
+
+ //   [self debugDrawBone:rootBone];
     
     CC_INCREMENT_GL_DRAWS(1);
 	CHECK_GL_ERROR_DEBUG();
+    
+    
+    //DRAW THE RECT FOR EACH SKIN
+        ccGLEnableVertexAttribs( kCCVertexAttribFlag_Position | kCCVertexAttribFlag_Color );
+        ccDrawColor4F(1, 1, 1, 1);
+        glLineWidth(2.0f);
+    for (NSValue* rectVal in [self boundingBoxesArray]){
+    
+        [self drawBox:[rectVal CGRectValue]];
+    
+    }
+    
+    //DRAW THE BIG RECT
+    ccDrawColor4F(1, 0, 0, 1);
+    glLineWidth(4.0f);
+    [self drawBox:[self boundingBox]];
+
+        [super draw];
+        
+        
+    
+
+    
+    
 }
+
+
+-(void) drawBox: (CGRect) rect
+{
+    CGPoint vertices[4]={
+        ccp(rect.origin.x,rect.origin.y),
+        ccp(rect.origin.x+rect.size.width,rect.origin.y),
+        ccp(rect.origin.x+rect.size.width,rect.origin.y+rect.size.height),
+        ccp(rect.origin.x,rect.origin.y+rect.size.height),
+    };
+    ccDrawPoly(vertices, 4, YES);
+}
+
 
 #endif
 
