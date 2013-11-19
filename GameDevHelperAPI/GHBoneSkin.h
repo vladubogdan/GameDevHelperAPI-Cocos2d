@@ -27,7 +27,10 @@
     CGPoint positionOffset;
     float   angleOffset;
     float   connectionAngle;//initial angle when bone was connected with the sprite
+    
 }
+
+
 /**
  Get and set the position offset that is used when transforming a sprite based on bone movement.
  */
@@ -84,4 +87,7 @@
  Update sprite position and rotation based on the bone movement.
 */
 -(void)transform;
+
+//Get my bounding box
+-(CGRect)boundingBox;
 @end
