@@ -126,4 +126,13 @@
     [sprite setPosition:CGPointMake(origin.x + posOffset.x, origin.y - posOffset.y)];
     [sprite setRotation:newAngle];
 }
+
+-(CGRect)boundingBox{
+
+    //get the rect of the GHSprite
+    return self.sprite.boundingBox;
+    
+
+
+}
 @end
