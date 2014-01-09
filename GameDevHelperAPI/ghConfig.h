@@ -24,7 +24,7 @@ change GH_ENABLE_PHYSICS_INTEGRATION to 0 if you don't want to use physics.
 /**
  Comment this line if you dont want debug drawing and logs.
  */
-#define GH_DEBUG
+//#define GH_DEBUG //does not work with all versions of cocos2d right now
 
 
 #endif//GAME_DEV_HELPER_API_ghConfig_h
