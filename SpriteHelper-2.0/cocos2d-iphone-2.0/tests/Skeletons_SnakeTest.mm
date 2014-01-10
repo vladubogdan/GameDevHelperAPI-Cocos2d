@@ -54,6 +54,7 @@
             location.x -= 60;//i substract this so the snake head will not be hidden by the finger when testing on device
             
             [skeleton setPosition:location forBoneNamed:@"RootBone"];
+            NSLog(@"SKELETON BOUNDING BOX IS : %@", NSStringFromCGRect([skeleton boundingBox]));
         }
 	}
 }

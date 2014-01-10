@@ -160,4 +160,15 @@ This will change or set an animation by transitioning each bone position
  */
 -(void)stopAnimation;
 
+
+/**
+    Returns the bounding box of the skeleton. Sum of all sprites bounding box.
+ */
+-(CGRect)boundingBox;
+
+/**
+    Returns an array of all sprites bounding boxes.
+ */
+-(NSMutableArray*)boundingBoxesArray;
+
 @end

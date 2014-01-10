@@ -893,28 +893,22 @@
 }
 
 
-//somebody pushed an incomplete implementation
-//-(CGRect)boundingBox{
-//    
-//    CGRect bigBox = CGRectZero;
-//    
-//    for(GHBoneSkin* skin in skins) {bigBox = CGRectUnion(bigBox, [skin boundingBox]);}
-//    
-//    return bigBox;
-//    
-//}
-//
-//-(NSMutableArray*)boundingBoxesArray{
-//    
-//    NSMutableArray* allBoundingBoxes = [NSMutableArray array];
-//    for(GHBoneSkin* skin in skins) {
-//        [allBoundingBoxes addObject:[NSValue valueWithCGRect:[skin boundingBox]]];
-//    }
-//    
-//    return allBoundingBoxes;
-//    
-//    
-//}
+-(CGRect)boundingBox{
+    
+    CGRect bigBox = CGRectZero;
+    for(GHBoneSkin* skin in skins) {bigBox = CGRectUnion(bigBox, [skin boundingBox]);}
+    return bigBox;
+    
+}
+
+-(NSMutableArray*)boundingBoxesArray{
+    
+    NSMutableArray* allBoundingBoxes = [NSMutableArray array];
+    for(GHBoneSkin* skin in skins) {
+        [allBoundingBoxes addObject:[NSValue valueWithCGRect:[skin boundingBox]]];
+    }
+    return allBoundingBoxes;
+}
 
 
 #ifdef GH_DEBUG

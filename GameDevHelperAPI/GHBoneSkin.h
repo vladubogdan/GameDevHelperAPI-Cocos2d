@@ -84,4 +84,9 @@
  Update sprite position and rotation based on the bone movement.
 */
 -(void)transform;
+
+/**
+ Returns the bounding box of the sprite.
+ */
+-(CGRect)boundingBox;
 @end
