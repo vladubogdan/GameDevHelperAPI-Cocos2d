@@ -37,7 +37,9 @@
 {
 	self = [super initWithSpriteFrameName:sprFrameName];
     if(self){
-        body = NULL;
+    	#if GH_ENABLE_PHYSICS_INTEGRATION
+        	body = NULL;
+        #endif
         
         spriteFrameName = [[NSString alloc] initWithString:sprFrameName];
         
